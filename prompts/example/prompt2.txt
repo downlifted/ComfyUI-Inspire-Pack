@@ -1,79 +1,159 @@
-positive:A chimpanzee wearing a business suit, using a sleek, chrome computer with a curved monitor, in a modern, minimalist office. (Inspiration: https://store.apple.com/Catalog/regional/amr/affiliates/affiliate-photo-guide.pdf)
+positive: City skyline at night, lights reflecting in the river, crescent moon in the sky
 
-negative: blurry, low quality, bad anatomy, outdated computer
----- 
-positive: A group of monkeys of different species, sitting around a wooden table, engrossed in colorful tablets. (Positive: cartoon style)
+negative: text, watermark
+----
+positive: A bustling marketplace filled with vibrant colors and people from all walks of life
 
-negative: text, logo, watermark
----- 
-positive:A surprised monkey with wide eyes, staring at a holographic display coming out of a sleek, portable laptop on its lap. (Positive: dramatic lighting, high detail)
+negative: text, watermark
+----
+positive: Lush green forest bathed in the golden light of sunrise, mist clinging to the trees
 
-negative: blurry, unclear image, outdated computer
----- 
-positive:A capuchin monkey wearing virtual reality goggles, completely immersed in a virtual world displayed on a high-tech computer chair.
+negative: text, watermark
+----
+positive: A majestic waterfall cascading down moss-covered rocks, surrounded by lush greenery
 
-negative: low quality, bad anatomy, wires showing
----- 
-positive:A black and white photorealistic image of a serious orangutan, typing on a vintage typewriter with a monitor displaying code.
+negative: text, watermark
+----
+positive: A hot air balloon ride over rolling vineyards, with a quaint village nestled in the valley below
 
-negative: color, blurry, modern computer
----- 
-positive:A playful spider monkey swinging from vines in the jungle, holding a ruggedized tablet in its mouth, with a map displayed on the screen.
+negative: text, watermark
+----
+positive: Cozy bookstore with warm lighting, overflowing shelves, and a comfortable armchair for reading
 
-negative: blurry, unrealistic fur, low quality
----- 
-positive:A group of monkeys collaborating on a project, using a large touchscreen computer mounted on the wall, with sticky notes and drawings around it.
+negative: text, watermark
+----
+positive: A vibrant coral reef teeming with colorful fish and playful dolphins swimming through
 
-negative: messy background, blurry image
----- 
-positive:A close-up photo of a monkey's hand using a stylus to draw on a tablet, with a half-finished illustration of a banana.
+negative: text, watermark
+----
+positive: A panoramic view of a snow-capped mountain range reflected in a crystal-clear lake
 
-negative: blurry, low quality, bad anatomy
----- 
-positive:A surreal image of a monkey's head coming out of a giant, old computer monitor, with wires and circuits flowing around it.
+negative: text, watermark
+----
+positive: A bustling city street during the day, filled with people, cars, and yellow taxis
 
-negative: realistic, low quality
----- 
-positive:A pixel art illustration of a monkey using a chunky computer from the 80s, with a colorful game displayed on the screen.
+negative: text, watermark
+----
+positive: A quiet country road winding through golden wheat fields under a clear blue sky
 
-negative: high detail, realistic
----- 
-positive:A watercolor painting of a group of monkeys relaxing in hammocks, reading ebooks on their tablets under a tropical palm tree.
+negative: text, watermark
+----
+positive: A breathtaking view of the aurora borealis dancing across the night sky
 
-negative: blurry, low quality
----- 
-positive:A detailed illustration of a steampunk monkey inventor, tinkering with a fantastical computer made of gears and pipes.
+negative: text, watermark
+----
+positive: A charming lighthouse perched on a rocky cliff, overlooking a vast ocean
 
-negative: blurry, low quality
----- 
-positive:A photo of a monkey video conferencing with a human on a laptop, both wearing headphones and looking focused.
+negative: text, watermark
+----
+positive: A historic castle with towering spires and stained glass windows bathed in afternoon sunlight
 
-negative: blurry, low quality, home office background
----- 
-positive:A monkey astronaut floating in zero gravity, using a voice-activated computer to control the spaceship.
+negative: text, watermark
+----
+positive: A vibrant farmers market overflowing with fresh fruits and vegetables
 
-negative: blurry, low quality, unrealistic space background
----- 
-positive:A line art drawing of a group of monkeys in a classroom, attentively learning how to use computers from a teacher monkey.
+negative: text, watermark
+----
+positive: A steaming cup of coffee on a balcony overlooking a bustling city
 
-negative: blurry, low quality
----- 
-positive:A collage-style image of a monkey using a computer, with different images representing the possibilities of technology (education, communication, entertainment).
+negative: text, watermark
+----
+positive: A peaceful meadow filled with wildflowers swaying gently in the summer breeze
 
-negative: blurry, low quality
----- 
-positive:A retro-futuristic illustration of a monkey using a computer with a holographic keyboard and a transparent screen.
+negative: text, watermark
+----
+positive: A traditional Japanese garden with a koi pond and a red bridge
 
-negative: blurry, low quality
----- 
-positive:A children's book illustration style image of a friendly monkey helping a baby monkey learn to use a colorful tablet for the first time.
+negative: text, watermark
+----
+positive: A starry night sky with the Milky Way galaxy stretching across the horizon
 
-negative: blurry, low quality
----- 
-positive:A monkey DJ wearing headphones, mixing music on a computer with multiple screens and turntables.
+negative: text, watermark
+----
+positive: A bustling train station with passengers rushing to board and disembark from trains
 
-negative: blurry, low quality, messy background
----- 
-positive:A close-up photo of a monkey's eye looking at a computer screen filled with code, with a single line of code highlighted in green.
+negative: text, watermark
+----
+positive: A cozy cabin nestled in snowy mountains with smoke curling from the chimney and a crackling fire inside
 
-negative: blurry, low quality
+negative: text, watermark
+----
+positive: A breathtaking view from a hot air balloon, overlooking a vast desert landscape with towering sand dunes
+
+negative: text, watermark
+----
+positive: A vibrant coral reef teeming with life, sunlight filtering through the crystal-clear water
+
+negative: text, watermark
+----
+positive: A charming harbor with colorful sailboats docked and seagulls flying overhead
+
+negative: text, watermark
+----
+positive: A historic library with towering bookshelves filled with leather-bound volumes
+
+negative: text, watermark
+----
+positive: A bustling city square with street performers entertaining a crowd
+
+negative: text, watermark
+----
+positive: A breathtaking view of a volcanic eruption spewing fire and ash into the night sky
+
+negative: text, watermark
+----
+positive: A panoramic view of a lush rainforest with towering trees and exotic wildlife
+
+negative: text, watermark
+----
+positive: A peaceful garden filled with vibrant flowers and a gentle waterfall cascading into a pond
+
+negative: text, watermark
+----
+positive: A breathtaking view of a glacier calving into a crystal-clear lake surrounded by mountains
+
+negative: text, watermark
+----
+positive: A bustling food market with vendors selling dishes from all over the world
+
+negative: text, watermark
+----
+positive: A bustling airport with planes taking off and landing on the runway
+
+negative: text, watermark
+----
+positive: A breathtaking view of the Grand Canyon with layers of colorful rock formations
+
+negative: text, watermark
+----
+positive: A peaceful scene of a lone fisherman casting his line into a calm lake at sunrise
+
+negative: text, watermark
+----
+positive: A bustling high school hallway filled with students rushing to class
+
+negative: text, watermark
+----
+positive: A breathtaking view of the Northern Lights dancing across the night sky
+
+negative: text, watermark
+----
+positive: A bustling amusement park with people riding roller coasters and enjoying rides
+
+negative: text, watermark
+----
+positive: A vibrant street art mural bursting with color and creativity
+
+negative: text, watermark
+----
+positive: A charming bakery with fresh bread and pastries displayed in the window
+
+negative: text, watermark
+----
+positive: A bustling port with cargo ships being loaded and unloaded
+
+negative: text, watermark
+----
+positive: A breathtaking view of a lavender field stretching towards the horizon under a clear blue sky
+
+negative: text
