@@ -1,40 +1,79 @@
-Positive: A bustling futuristic airport at night, with flying cars zooming by under a deep blue twilight sky.
+positive:A chimpanzee wearing a business suit, using a sleek, chrome computer with a curved monitor, in a modern, minimalist office. (Inspiration: https://store.apple.com/Catalog/regional/amr/affiliates/affiliate-photo-guide.pdf)
 
-Negative: humans 
------
-Positive: An avant-garde fashion show with models walking under spotlights casting blue hues, showcasing futuristic designs.
+negative: blurry, low quality, bad anatomy, outdated computer
+---- 
+positive: A group of monkeys of different species, sitting around a wooden table, engrossed in colorful tablets. (Positive: cartoon style)
 
-Negative: humans 
------
-Positive: A deep sea exploration submersible illuminating an ancient sunken pirate ship with its blue spotlights, revealing hidden treasures and marine life.
+negative: text, logo, watermark
+---- 
+positive:A surprised monkey with wide eyes, staring at a holographic display coming out of a sleek, portable laptop on its lap. (Positive: dramatic lighting, high detail)
 
-Negative: humans 
------
-Positive: A surreal art gallery where the walls and artworks subtly shift hues, with shades of blue dominating the palette.
+negative: blurry, unclear image, outdated computer
+---- 
+positive:A capuchin monkey wearing virtual reality goggles, completely immersed in a virtual world displayed on a high-tech computer chair.
 
-Negative: humans 
------
-Positive: A moonlit beach with waves glowing blue due to bioluminescent plankton, with couples walking along the shoreline.
+negative: low quality, bad anatomy, wires showing
+---- 
+positive:A black and white photorealistic image of a serious orangutan, typing on a vintage typewriter with a monitor displaying code.
 
-Negative: humans 
------
-Positive: A panoramic view of a mountain range at dawn, with the peaks bathed in soft blue light from the rising sun.
+negative: color, blurry, modern computer
+---- 
+positive:A playful spider monkey swinging from vines in the jungle, holding a ruggedized tablet in its mouth, with a map displayed on the screen.
 
-Negative: humans 
------
-Positive: An expansive digital data center with rows of servers emitting pulses of blue light, symbolizing data flow and network activity.
+negative: blurry, unrealistic fur, low quality
+---- 
+positive:A group of monkeys collaborating on a project, using a large touchscreen computer mounted on the wall, with sticky notes and drawings around it.
 
-Negative: humans 
------
-Positive: A retro diner at night, lit by blue neon signs, with classic cars parked outside and patrons enjoying late-night meals.
+negative: messy background, blurry image
+---- 
+positive:A close-up photo of a monkey's hand using a stylus to draw on a tablet, with a half-finished illustration of a banana.
 
-Negative: humans 
------
-Positive: A massive blue whale swimming alongside a dive team in the open ocean, highlighting the majestic scale of marine life.
+negative: blurry, low quality, bad anatomy
+---- 
+positive:A surreal image of a monkey's head coming out of a giant, old computer monitor, with wires and circuits flowing around it.
 
-Negative: humans 
------
-Positive: A bustling city park at nightfall, illuminated by thousands of blue fairy lights strung between the trees, with families and friends enjoying evening strolls.
+negative: realistic, low quality
+---- 
+positive:A pixel art illustration of a monkey using a chunky computer from the 80s, with a colorful game displayed on the screen.
 
-Negative: humans 
+negative: high detail, realistic
+---- 
+positive:A watercolor painting of a group of monkeys relaxing in hammocks, reading ebooks on their tablets under a tropical palm tree.
 
+negative: blurry, low quality
+---- 
+positive:A detailed illustration of a steampunk monkey inventor, tinkering with a fantastical computer made of gears and pipes.
+
+negative: blurry, low quality
+---- 
+positive:A photo of a monkey video conferencing with a human on a laptop, both wearing headphones and looking focused.
+
+negative: blurry, low quality, home office background
+---- 
+positive:A monkey astronaut floating in zero gravity, using a voice-activated computer to control the spaceship.
+
+negative: blurry, low quality, unrealistic space background
+---- 
+positive:A line art drawing of a group of monkeys in a classroom, attentively learning how to use computers from a teacher monkey.
+
+negative: blurry, low quality
+---- 
+positive:A collage-style image of a monkey using a computer, with different images representing the possibilities of technology (education, communication, entertainment).
+
+negative: blurry, low quality
+---- 
+positive:A retro-futuristic illustration of a monkey using a computer with a holographic keyboard and a transparent screen.
+
+negative: blurry, low quality
+---- 
+positive:A children's book illustration style image of a friendly monkey helping a baby monkey learn to use a colorful tablet for the first time.
+
+negative: blurry, low quality
+---- 
+positive:A monkey DJ wearing headphones, mixing music on a computer with multiple screens and turntables.
+
+negative: blurry, low quality, messy background
+---- 
+positive:A close-up photo of a monkey's eye looking at a computer screen filled with code, with a single line of code highlighted in green.
+
+negative: blurry, low quality
