@@ -1,30 +1,40 @@
 Positive: A bustling futuristic airport at night, with flying cars zooming by under a deep blue twilight sky.
+
 Negative: humans 
 -----
 Positive: An avant-garde fashion show with models walking under spotlights casting blue hues, showcasing futuristic designs.
+
 Negative: humans 
 -----
 Positive: A deep sea exploration submersible illuminating an ancient sunken pirate ship with its blue spotlights, revealing hidden treasures and marine life.
+
 Negative: humans 
 -----
 Positive: A surreal art gallery where the walls and artworks subtly shift hues, with shades of blue dominating the palette.
+
 Negative: humans 
 -----
 Positive: A moonlit beach with waves glowing blue due to bioluminescent plankton, with couples walking along the shoreline.
+
 Negative: humans 
 -----
 Positive: A panoramic view of a mountain range at dawn, with the peaks bathed in soft blue light from the rising sun.
+
 Negative: humans 
 -----
 Positive: An expansive digital data center with rows of servers emitting pulses of blue light, symbolizing data flow and network activity.
+
 Negative: humans 
 -----
 Positive: A retro diner at night, lit by blue neon signs, with classic cars parked outside and patrons enjoying late-night meals.
+
 Negative: humans 
 -----
 Positive: A massive blue whale swimming alongside a dive team in the open ocean, highlighting the majestic scale of marine life.
+
 Negative: humans 
 -----
 Positive: A bustling city park at nightfall, illuminated by thousands of blue fairy lights strung between the trees, with families and friends enjoying evening strolls.
+
 Negative: humans 
------
+
